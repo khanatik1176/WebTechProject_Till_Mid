@@ -1,2 +1,2 @@
 # WebTechProject_Till_Mid
-Used HTML, PHP and MYSQL &amp; CSS(minimal use)
+University Web group project Used technologies are: HTML, PHP and MYSQL &amp; CSS(minimal use)
